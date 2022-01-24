@@ -10,7 +10,7 @@
 
 ```
 device/                               --- 硬件单板相关仓库
-├── boards/lango                      --- 朗国公司相关单板
+├── board/lango                      --- 朗国公司相关单板
 └── soc/asrmicro                      --- ASR相关SoC代码
 
 vendor/asrmicro/                      --- vendor_asrmicro 仓库路径
